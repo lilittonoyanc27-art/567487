@@ -1,0 +1,6 @@
+{
+  "name": "Guía de Español y Armenio - Figuras y Gramática",
+  "description": "Aplicación interactiva de aprendizaje español-armenio con figuras retóricas, adverbios y demostrativos. Clic en español para revelar la traducción en armenio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
